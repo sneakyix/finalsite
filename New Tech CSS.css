@@ -1,0 +1,40 @@
+html{background-color: white;}
+body
+{
+    background-color: #2E64FE;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding: 20px;
+}
+a:link{color: yellow;}
+a:visited{color: yellow;}
+a:hover{color: lawngreen;}
+
+hr
+{
+    color: whitesmoke;
+}
+
+h1
+{ 
+    font-family: "Impact";
+    font-size: 30px;
+    color: lawngreen;
+}
+
+h2
+{ 
+    font-family: "Impact";
+    font-size: 25px;
+    color: lawngreen;
+}
+
+p
+{
+    font-family:"Arial";
+    font-size: 16px;
+    margin: 10px 30px;
+    color: whitesmoke;
+}
